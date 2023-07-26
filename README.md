@@ -1,6 +1,6 @@
 # simple-api-gateway
 
-A simple implementation of API gateway with GET and POST reading and writing to a DynamoDB.
+A simple implementation of API gateway with GET and POST reading and writing to DynamoDB.
 
 This example uses products where `id`, `name`, and `price` are stored in a DynamoDB table.
 
